@@ -8,7 +8,7 @@ from langchain_community.vectorstores import Chroma
 
 llm = ChatGroq(
     model="llama-3.3-70b-versatile",
-    api_key="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",
+    api_key="GROQ_API_KEY",
     temperature=0
 )
 

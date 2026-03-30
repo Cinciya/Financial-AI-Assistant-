@@ -3,7 +3,7 @@ from PIL import Image
 import pdfplumber
 
 
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = r"C:\Users\Dell\Documents\tesseract.exe"
 
 
 
