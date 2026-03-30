@@ -1,0 +1,8 @@
+streamlit
+pytesseract
+pillow
+pdfplumber
+langchain
+chromadb
+groq
+sentence-transformers
